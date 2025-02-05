@@ -1,4 +1,4 @@
-# xkeysyms
+# xkeysym
 
 This crate provides constants representing all of the X11 keyboard symbols. It 
 also provides utility functions for working with those symbols, and for
